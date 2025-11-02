@@ -1,0 +1,38 @@
+# --------------------
+# Python Cache  Bytecode
+# --------------------
+__pycache__
+.py[cod]
+.pyo
+.pyd
+
+# --------------------
+# Virtual Environment Folders
+# --------------------
+.venv
+venv
+env
+
+# --------------------
+# VS Code Settings (optional)
+# Keep user-specific settings out of repo
+# --------------------
+.vscode
+
+# --------------------
+# Pip Wheel Build  Packaging
+# --------------------
+build
+dist
+.egg-info
+
+# --------------------
+# Jupyter Notebook Checkpoints
+# --------------------
+.ipynb_checkpoints
+
+# --------------------
+# System  IDE Specific
+# --------------------
+.DS_Store
+Thumbs.db

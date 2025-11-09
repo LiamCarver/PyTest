@@ -32,5 +32,4 @@ def classify(text: str):
     }
 
 # Test Examples
-print(classify("I love this. This is great."))
-print(classify("This is awful. I hate it."))
+print(classify("I don't like this."))
